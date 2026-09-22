@@ -1,0 +1,1 @@
+{"configuration_id":"lieb-v1-sample","principal":"incident-bundle-server","scope":"incident-local","authority_evidence":"incident-sample-authority","storage_root":"./data","destinations":{"inbox":{"type":"file","path":"incident-inbox.txt"}},"provenance":{"kind":"sample_configuration"}}
